@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"C# Snippets",
+		"CodeFormatter",
+		"ColorPick",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Jade",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JS Snippets",
+		"JsFormat",
+		"MarkdownEditing",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Brogrammer",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	]
+}
